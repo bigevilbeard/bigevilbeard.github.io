@@ -13,6 +13,10 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+   - {title: "Blog", url: "https://blogs.cisco.com/author/stuartclark"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
