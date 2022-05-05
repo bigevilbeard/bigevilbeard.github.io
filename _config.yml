@@ -16,14 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-   - {title: "Blog", url: "https://blogs.cisco.com/author/stuartclark"}
-
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:stuaclar@cisco.com"}
-  - {title: Github, icon: github, url: "https://github.com/bigevilbeard"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/bigevilbeard"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/stuarteclark"}
+   - {title: Blog, icon: blog, url: "https://blogs.cisco.com/author/stuartclark"}
+   - {title: Mail, icon: envelope, url: "mailto:stuaclar@cisco.com"}
+   - {title: Github, icon: github, url: "https://github.com/bigevilbeard"}
+   - {title: Twitter, icon: twitter, url: "https://twitter.com/bigevilbeard"}
+   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/stuarteclark"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
