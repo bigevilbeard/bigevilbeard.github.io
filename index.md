@@ -3,7 +3,7 @@ layout: page
 title: "Me"
 ---
 
-### Stuart Clark is Developer Advocate, author for Cisco Press and a Cisco Certified DevNet Expert #20220005
+### Stuart Clark is a Developer Advocate, author for Cisco Press and a Cisco Certified DevNet Expert #20220005
 
 Stuart started his career as a hairdresser in 1990, and in 2008 he changed careers to become a network engineer. 
 After cutting his teeth in network operations he moved to network projects and programs. After many years as a network engineer, 
