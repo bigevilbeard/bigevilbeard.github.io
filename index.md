@@ -12,4 +12,4 @@ Stuart contributed to the DevNet exams and was one of the SME teams that created
 Stuart has presented at over fifty external conferences and is a multi-time Cisco Live Distinguished Speaker covering topics on network automation and methodologies. 
 Stuart lives in Lincoln England with his wife Natalie and their son Maddox, he plays guitar and rocks an impressive two-foot beard whilst drinking coffee. 
 
-![Dimebag](./dimebag.jpeg)
+![CiscoLivee](./cisco_live_stage.png)
